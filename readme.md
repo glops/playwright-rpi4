@@ -1,5 +1,9 @@
 # Dockerfile for playwright-python on raspberry pi 4
 
+> ⚠️ Deprecated ⚠️
+> 
+> This method is not usefull anymore as Playwright v1.17+ now supports Raspberry PI - [see 1.17 release notes](https://github.com/microsoft/playwright/releases/tag/v1.17.0)
+
 This dockerfile demonstrate how to install playwright-python on raspberry pi 4. 
 
 I tested it only on ubuntu 20.04 64bits on rpi4. It may work on other raspberries.
